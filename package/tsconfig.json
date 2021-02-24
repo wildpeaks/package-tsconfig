@@ -1,0 +1,19 @@
+{
+	"compilerOptions": {
+		"newLine": "LF",
+
+		"strict": true,
+		"noImplicitReturns": true,
+		"noUnusedLocals": true,
+		"noUnusedParameters": true,
+		"useDefineForClassFields": true,
+
+		"lib": ["es2020", "dom"],
+		"module": "es2020",
+		"target": "es2017",
+		"moduleResolution": "node",
+		"resolveJsonModule": true,
+		"removeComments": true,
+		"sourceMap": true
+	}
+}
