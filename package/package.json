@@ -1,0 +1,20 @@
+{
+  "name": "@wildpeaks/tsconfig",
+  "description": "Typescript settings for ES2020 transpiled to ES2017 ESM",
+  "author": "Cecile Muller",
+  "license": "MIT",
+  "keywords": [
+    "wildpeaks",
+    "typescript",
+    "tsconfig"
+  ],
+  "homepage": "https://github.com/wildpeaks/package-tsconfig#readme",
+  "repository": "https://github.com/wildpeaks/package-tsconfig",
+  "bugs": {
+    "url": "https://github.com/wildpeaks/package-tsconfig/issues"
+  },
+  "main": "tsconfig.json",
+  "files": [
+    "tsconfig.json"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+	"extends": "../../../package/tsconfig",
+	"include": ["./fake/*.*"],
+	"compilerOptions": {
+		"types": ["node"],
+		"outDir": "out"
+	}
+}

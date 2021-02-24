@@ -1,0 +1,20 @@
+# Ignore everything by default:
+/*
+/*/
+
+# But allow these files and folders:
+!/LICENSE
+!/README.md
+!/.editorconfig
+!/.gitattributes
+!/.gitignore
+!/.github
+!/.prettierignore
+!/.vscode
+!/test
+!/package
+!/package.json
+
+# But make sure to ignore these regardless:
+test/**/out
+test/**/dist

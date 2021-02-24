@@ -1,0 +1,9 @@
+{
+	"extends": "../../../package/tsconfig",
+	"compilerOptions": {
+		"types": ["node"],
+		"outDir": "out",
+		"jsx": "react-jsx",
+		"jsxImportSource": "preact"
+	}
+}

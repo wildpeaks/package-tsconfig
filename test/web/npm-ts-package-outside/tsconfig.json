@@ -1,0 +1,10 @@
+{
+	"extends": "../../../package/tsconfig",
+	"include": [
+		"./src/**/*.*"
+	],
+	"compilerOptions": {
+		"types": ["node"],
+		"outDir": "out"
+	}
+}
