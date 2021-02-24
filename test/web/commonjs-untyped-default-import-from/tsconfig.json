@@ -1,0 +1,8 @@
+{
+	"extends": "../../../package/tsconfig",
+	"compilerOptions": {
+		"allowJs": true,
+		"types": ["node"],
+		"outDir": "out"
+	}
+}

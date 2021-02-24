@@ -1,0 +1,7 @@
+{
+	"extends": "../../../package/tsconfig",
+	"compilerOptions": {
+		"types": ["node"],
+		"outDir": "out"
+	}
+}
