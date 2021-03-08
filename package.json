@@ -11,7 +11,7 @@
     "@types/node": "14.14.31",
     "@wildpeaks/eslint-config-commonjs": "11.2.0",
     "@wildpeaks/prettier-config": "11.2.0",
-    "ajv": "7.1.1",
+    "ajv": "7.2.1",
     "css-loader": "5.1.1",
     "eslint": "7.21.0",
     "express": "4.17.1",
