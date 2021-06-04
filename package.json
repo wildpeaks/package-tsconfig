@@ -8,7 +8,7 @@
     "test": "mocha test/*.test.js --parallel --timeout 30000 --slow 30000"
   },
   "devDependencies": {
-    "@types/node": "15.9.0",
+    "@types/node": "15.12.0",
     "@wildpeaks/eslint-config-commonjs": "12.0.0",
     "@wildpeaks/prettier-config": "12.0.0",
     "css-loader": "5.2.6",
