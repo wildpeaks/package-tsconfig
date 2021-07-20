@@ -10,7 +10,7 @@
   "devDependencies": {
     "@types/node": "16.3.3",
     "@wildpeaks/eslint-config-commonjs": "13.0.0",
-    "@wildpeaks/prettier-config": "12.2.0",
+    "@wildpeaks/prettier-config": "13.0.0",
     "css-loader": "6.0.0",
     "eslint": "7.31.0",
     "express": "4.17.1",
