@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "@types/node": "16.10.3",
-    "@wildpeaks/eslint-config-commonjs": "13.2.0",
+    "@wildpeaks/eslint-config-commonjs": "14.0.0",
     "@wildpeaks/prettier-config": "14.0.0",
     "css-loader": "6.3.0",
     "eslint": "7.32.0",
