@@ -12,7 +12,7 @@
     "@wildpeaks/eslint-config-commonjs": "15.0.0",
     "@wildpeaks/prettier-config": "15.0.0",
     "css-loader": "6.3.0",
-    "eslint": "7.32.0",
+    "eslint": "8.0.1",
     "express": "4.17.1",
     "fs-extra": "10.0.0",
     "html-webpack-plugin": "5.3.2",
