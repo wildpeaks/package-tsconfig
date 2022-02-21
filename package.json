@@ -16,7 +16,7 @@
     "express": "4.17.2",
     "fs-extra": "10.0.0",
     "html-webpack-plugin": "5.5.0",
-    "mocha": "9.2.0",
+    "mocha": "9.2.1",
     "playwright": "1.18.0",
     "preact": "10.6.4",
     "style-loader": "3.3.1",
